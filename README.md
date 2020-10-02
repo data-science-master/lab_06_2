@@ -1,7 +1,7 @@
 # Instructions
 
 - Build a Shiny App to interactively explore the `cereals` data
-  from the plspm R package.
+  in the data folder.
 - This app should plot two variables in a scatterplot, color-coding by a
   third variable. 
 - If the color-coding variable is quantitative, the color-coding should be 
